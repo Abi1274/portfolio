@@ -1,0 +1,15 @@
+/* === RESPONSIVE === 
+@media(max-width:900px){
+  #home{
+    text-align:center;
+    flex-direction:column;
+  }
+  .imgSection{
+    margin-top:20px;
+  }
+  .about-container,.project-container,.contact-container{
+    flex-direction:column;
+    align-items:center;
+  }
+}
+*/
