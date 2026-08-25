@@ -1,0 +1,3 @@
+Upload index.html, style.css and script.js to your Netlify site.
+If you want your CV button back, add your PDF and link it from index.html.
+All main project links are already connected to your GitHub repositories.
